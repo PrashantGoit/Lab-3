@@ -1,6 +1,6 @@
 import React from 'react';
 import ColorBox from './ColorBox';
-import colors from '../assets/data';
+import colors from '../data/data';
 
 export default function ColorBoxesContainer() {
   return (
