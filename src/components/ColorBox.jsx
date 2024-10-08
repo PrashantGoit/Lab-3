@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import colors from '../assets/data';
+import colors from '../data/data';
 
 export default function ColorBox({ color }) {
   const [currentColor, setCurrentColor] = useState(color);
